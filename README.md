@@ -10,8 +10,8 @@ I do like to program in different languages, my favorites are: C++, C#, Rust, Ja
 - 💬 Ask me about **DICOM, HL7, C++, C#**
 - 📫 How to reach me **<vbaderks@gmail.com>**
 
-![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vbaderks&layout=compact&theme=synthwave)
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=vbaderks&show_icons=true&theme=synthwave)
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vbaderks&layout=compact&theme=transparent)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=vbaderks&show_icons=true&theme=transparent)
 
 <p align="center">
 <a href="https://twitter.com/vbaderks" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vbaderks" height="30" width="30" /></a>
