@@ -7,8 +7,7 @@ I do like to program in different languages, my favorites are: C++, C#, Rust, Ja
 
 ![profile views counter](https://komarev.com/ghpvc/?username=vbaderks)
 
-- 💬 Ask me about **DICOM, HL7, C++, C#**
-- 📫 How to reach me **<vbaderks@gmail.com>**
+- 💬 Ask me about **DICOM, HL7, JPEG-LS, C++, C#**
 
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vbaderks&layout=compact&theme=transparent)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=vbaderks&show_icons=true&theme=transparent)
